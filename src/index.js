@@ -13,6 +13,6 @@ import ReactDOM from "react-dom";
 ReactDOM.render(
 <div>
   <h1>Hello World</h1>
-  <p>Jai Sri Ganesh</p>
+  <p>Para 1</p>
 </div>, document.getElementById("root"));
 
