@@ -11,8 +11,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 ReactDOM.render(
-<div>
-  <h1>Hello World</h1>
-  <p>Jai Sri Ganesh</p>
-</div>, document.getElementById("root"));
-
+  <div>
+    <h1>Hello World</h1>
+    <p>para</p>
+  </div>,
+  document.getElementById("root")
+);
